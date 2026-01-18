@@ -7,4 +7,4 @@ function main(lines) {
    console.log(`SALARY = U$ ${salary.toFixed(2)}`);
 }
 
-main([25, 100, 5.5]);
+main(lines);

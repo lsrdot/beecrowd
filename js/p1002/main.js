@@ -5,4 +5,4 @@ function problem1002(lines) {
   console.log(`A=${area.toFixed(4)}`);
 }
 
-problem1002([12]);
+problem1002(lines);

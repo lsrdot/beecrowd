@@ -6,4 +6,4 @@ function problem(lines) {
 }
 
 
-problem([1, 2]);
+problem(lines);

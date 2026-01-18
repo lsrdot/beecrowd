@@ -8,4 +8,4 @@ function main(lines) {
   console.log(`MEDIA = ${media.toFixed(1)}`);
 }
 
-main([5.0, 6.0, 7.0]);
+main(lines);

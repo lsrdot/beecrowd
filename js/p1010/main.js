@@ -20,4 +20,4 @@ function createInvoice([code, quant, value]) {
 }
 
 
-main(["12 1 5.30", "16 2 5.10"]);
+main(lines);

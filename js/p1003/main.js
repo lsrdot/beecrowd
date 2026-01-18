@@ -4,4 +4,4 @@ function problema1003(lines) {
   console.log(`SOMA = ${soma}`);
 }
 
-problema1003([10, 10 ** 2]);
+problema1003(lines);

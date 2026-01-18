@@ -9,4 +9,4 @@ function problema1005(lines) {
   console.log(`MEDIA = ${media.toFixed(5)}`);
 }
 
-problema1005([5.0, 7.1]);
+problema1005(lines);

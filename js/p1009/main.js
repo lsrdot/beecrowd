@@ -6,5 +6,5 @@ function main(lines) {
     console.log(`TOTAL = R$ ${(commission + salary).toFixed(2)}`);
 }
 
-main(['JOAO', 500.00, 1230.30]);
+main(lines);
 

@@ -6,4 +6,4 @@ function main(lines) {
   console.log(`DIFERENCA = ${Math.trunc(diferenca)}`);
 }
 
-main([5, 6, 7, 8]);
+main(lines);
