@@ -15,7 +15,6 @@ function main(lines) {
     console.log(`TRAPEZIO: ${trapezio.toFixed(3)}`);
     console.log(`QUADRADO: ${square.toFixed(3)}`);
     console.log(`RETANGULO: ${rectangle.toFixed(3)}`);
-
 }
 
 
@@ -24,9 +23,9 @@ main(lines);
 
 function parseDouble(arr) {
     let aux = [];
-    for (let n of arr) 
+    for (let n of arr)
         aux.push(Number(n.trim()));
     return [
         ...aux
-    ];  
+    ];
 }
